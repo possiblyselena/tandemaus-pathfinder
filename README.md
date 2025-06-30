@@ -1,5 +1,5 @@
-# tandemaus-pathfinder
-This is a YSWS submissiosn for pathfinder andI made this during the Athena workshop! I added tandemaus pictures all over it to make it more personalized. 
+# Tandemaus Pathfinder
+This is a YSWS submission for pathfinder and I made this during the Athena workshop! I added Tandemaus pictures all over it to make it more personalized. The LEDS are controlled by the buttons that turn them off and when you hold all of them down, they flicker! 
 
 Components
 - 3x LEDs
@@ -15,3 +15,4 @@ Components
 
 # 3D Model
 ![image](https://github.com/user-attachments/assets/8607c041-0dec-47b7-85a1-28466a10fe78)
+![image](https://github.com/user-attachments/assets/16562364-0ea1-4635-8134-7537ce419da0)
