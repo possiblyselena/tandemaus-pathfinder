@@ -1,4 +1,7 @@
 # Tandemaus Pathfinder
+
+<img width="689" height="399" alt="image" src="https://github.com/user-attachments/assets/836891c0-b211-4999-a1b2-4d2d529a700e" />
+
 This is a YSWS submission for pathfinder and I made this during the Athena workshop! I added Tandemaus pictures all over it to make it more personalized. The LEDS are controlled by the buttons that turn them off and when you hold all of them down, they flicker! 
 
 Components
